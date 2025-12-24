@@ -1,17 +1,3 @@
-# 📌 **Repository Title**
-
-**Zero-Shot Intent Classification on Banking77 using LLMs (Single Query & Large-Scale Evaluation)**
-
----
-
-# 📝 **Short Repository Description (GitHub description box)**
-
-Zero-shot intent classification on the Banking77 dataset using prompt-only inference, including single-query validation and large-scale accuracy benchmarking across GPT-5.2 and GPT-5-Mini.
-
----
-
-# 📄 **README.md**
-
 ## 📌 Project Overview
 
 This project evaluates the capability of Large Language Models (LLMs) to perform **intent classification** in a **zero-shot setting** using the **Banking77 dataset**.
