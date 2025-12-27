@@ -1,5 +1,3 @@
-## 📌 Project Overview
-
 This project evaluates the capability of Large Language Models (LLMs) to perform **intent classification** in a **zero-shot setting** using the **Banking77 dataset**.
 
 The work is structured into **two sub-tasks**:
