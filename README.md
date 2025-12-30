@@ -20,7 +20,7 @@ No model training or fine-tuning is performed — the entire pipeline relies on 
 * Compare performance between **GPT-5.2** and **GPT-5-Mini**
 
 ---
-
+ 
 ## 📊 Dataset
 
 **Banking77**
